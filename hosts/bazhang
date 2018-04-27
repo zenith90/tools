@@ -1,0 +1,92 @@
+# 方案一
+# 什么也没有绑定
+#
+# 在这儿输入你需要绑定的 hosts
+
+# localhost name resolution is handled within DNS itself.
+	127.0.0.1       localhost
+#	::1             localhost
+
+192.168.33.10 rtk_gateway.ruantiankong.com
+192.168.33.10 rtk.houtai.ruantiankong.cn
+192.168.33.10 xy.houtai.7723.cn
+192.168.33.10 yz.houtai.7723.cn
+192.168.33.10 ivvi.houtai.7723.cn
+192.168.33.10 www.bzadmin.cn
+192.168.33.10 www.obzadmin.cn
+
+192.168.33.10 beanstalk.7723.cn
+192.168.33.10 api.7723.cn
+192.168.33.10 bbs.7723.cn
+192.168.33.10 www.7723.cn
+192.168.33.10 update.7723.cn
+192.168.33.10 app.7723.cn
+192.168.33.10 open.7723.cn
+192.168.33.10 3g.7723.cn
+
+192.168.33.10 static.7723.com
+
+#192.168.33.10 my.7723.com
+#192.168.33.10 bbs.dev.7723.com
+#192.168.33.10 m.gateway.7723.com
+#120.55.190.23 www.7723.cn
+192.168.33.10 supersdk.bzadmin.cn
+
+#测试环境
+192.168.33.10 gateway.dev.7723.com
+192.168.33.10 m.gateway.7723.com
+#192.168.33.10 passport.dev.7723.com
+#192.168.33.10 bbs.7723.com
+
+192.168.33.10 www.test.com
+192.168.33.10 www.zq.com
+192.168.33.10 www.tsg.com
+192.168.33.10 www.t.com
+192.168.33.10 www.xs.com
+#192.168.33.10 www.cms.com
+
+114.55.234.151 m.uukanshu.cn
+
+#120.27.130.6 m.gateway.7723.com
+
+192.168.2.186 windows10.microdone.cn
+
+#118.31.113.166 m.gateway.7723.com
+0.0.0.0 account.jetbrains.com
+
+#31.216.148.10 mega.nz
+
+
+#127.0.0.1 app.7723img.cn
+#127.0.0.1 app.7723img.com
+#127.0.0.1 10.46.77.65.app.7723img.com
+#127.0.0.1 10.46.71.129.app.7723img.com
+#127.0.0.1 10.25.10.182.app.7723img.com
+#127.0.0.1 10.46.226.1.app.7723img.com
+
+#127.0.0.1 passport.7723.com
+#127.0.0.1 passportadmin.7723.com
+
+#127.0.0.1 rtk_gateway.ruantiankong.com
+#127.0.0.1 rtk.houtai.ruantiankong.cn
+#127.0.0.1 xy.houtai.7723.cn
+#127.0.0.1 yz.houtai.7723.cn
+#127.0.0.1 ivvi.houtai.7723.cn
+#127.0.0.1 www.bzadmin.cn
+#127.0.0.1 www.obzadmin.cn
+#127.0.0.1 api.7723.cn
+##127.0.0.1 bbs.7723.cn
+##127.0.0.1 bbs.7723.com
+##127.0.0.1 gateway.dev.7723.com
+##120.55.190.23 www.7723.cn
+#127.0.0.1 supersdk.bzadmin.cn
+
+#127.0.0.1 www.test.com
+#192.168.33.10 www.zq.com
+#127.0.0.1 www.cms.com
+
+#116.62.33.87 m.bbs.7723.com
+#116.62.33.87  bbs.7723.com
+#47.96.40.243  bbs.7723.com
+#120.27.135.156  bbs.7723.com
+#101.37.227.158  bbs.7723.com
